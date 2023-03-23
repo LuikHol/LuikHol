@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **BlockChain, Html and CSS**
 
-- 💬 Ask me about **Flutter, Dart, Java, C/C++**
+- 💬 Ask me about **Flutter, Dart, Java and C/C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
