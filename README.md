@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [GESAD(UECE)](https://github.com/GESAD-Newcomers)
 
-- 🌱 I’m currently learning **BlockChain, Html and CSS**
+- 🌱 I’m currently learning **Rest API, Html and CSS**
 
 - 💬 Ask me about **Flutter, Dart, Java and C/C++**
 
