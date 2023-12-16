@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [GESAD(UECE)](https://github.com/GESAD-Newcomers)
 
-- 🌱 I’m currently learning **Rest API, Html and CSS**
+- 🌱 I'm currently focusing on **React Native and Adonis**
 
-- 💬 Ask me about **Flutter, Dart, Java and C/C++**
+- 💬 Ask me about **Flutter, Dart, React Native, JavaScript, Java and C/C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
